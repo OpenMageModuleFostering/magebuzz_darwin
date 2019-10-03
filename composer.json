@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Magebuzz_Darwin",
+    "name": "OpenMageModuleFostering\/Magebuzz_Darwin",
     "type": "magento-module",
     "license": "OSL-3.0",
     "homepage": "",
     "description": "Integrate Magento with Darwin Pricing system. ",
     "authors": [
-    {
-        "name": "Magebuzz",
-        "email": "magebuzz@gmail.com"
-    }
-],
+        {
+            "name": "Magebuzz",
+            "email": "magebuzz@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
